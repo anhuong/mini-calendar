@@ -1,0 +1,31 @@
+/*---- Table settings ----*/
+table {
+    font-family:tahoma;
+    font-size:14px;
+    color:black;
+    display: block;
+    clear: left;
+
+}
+
+ tr {
+    background-color:#ccf;
+    text-align: center;
+}
+
+td{
+    padding: 8px;
+}
+
+.calendar {
+    border-color: #ccc;
+    font-size: 13.8px;
+}
+
+.calendar tr {
+    background-color: #ddd;
+}
+
+.calendar th, td {
+    padding: 3px 5px;
+}
